@@ -6,6 +6,6 @@
   LICENSE file in the root directory of this source tree.
 -}
 
-module Setup where
+module Main where
 import Distribution.Simple
 main = defaultMain
